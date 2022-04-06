@@ -1,2 +1,0 @@
-#!/bin/bash
-ehco -e  $((128 + TRUEKNOWLEDGE))  
